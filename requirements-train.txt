@@ -1,0 +1,4 @@
+-r requirements.txt
+mir_eval==0.8.2
+pretty_midi==0.2.11.post0
+mido==1.3.3
